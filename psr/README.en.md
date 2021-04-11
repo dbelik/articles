@@ -1,4 +1,4 @@
-# PSR
+# What is PSR?
 
 ## Terminology
 
