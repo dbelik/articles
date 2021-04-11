@@ -1,0 +1,4 @@
+- PSR-6 vs PSR-16
+- finish PSR-11, PSR-13
+- explain what do methods with* in HTTP interfaces mean
+- finish PSR-7
