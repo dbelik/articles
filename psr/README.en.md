@@ -16,8 +16,9 @@ The aim is to enable interoperability of components and to provide a common tech
 implementation of proven concepts for optimal programming and testing practices.
 All PSR are available [here](https://www.php-fig.org/psr).
 
-PSR can be split into 4 categories: autoloading, interfaces, http, coding styles.
+In total, there are 21 PSR standards.
 Each standard has 1 of 4 statuses - accepted, deprecated, draft, abandoned.
+PSR can be split into 4 categories: autoloading, interfaces, http, coding styles.
 
 ## Autoloading standards
 
